@@ -6,7 +6,7 @@ import reliance from "../assets/reliance.jpg";
 import sbi from "../assets/sbi.png";
 import ongc from "../assets/ongc.png";
 import vodaphone from "../assets/vodaphone.jpg";
-import aai from "../assets/aai.jpg";
+import aai from "../assets/AAi.jpg";
 import aseb from "../assets/aseb.jpg";
 
 // Functional component to display animated marquee of client logos
